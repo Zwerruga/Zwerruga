@@ -37,8 +37,10 @@ me.sayHi();
              																																					  
 ## :robot: Social
 [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuAObRP7voMKCr5v6Mb46sv_N40oJy3VjpzXx5TFC3cwk_mZYn3hPSd40jzPBT_6MMw&usqp=CAU' width="400" alt="CODEPEN"/>](https://codepen.io/serega-seleznev)<br/>
+
  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScljkBJXH9m0UZ5E3GD6Z1xqZo7U3MCzLkUQ&usqp=CAU"
 width="400"/>](https://www.sololearn.com/profile/16316680)<br/>
+
 [![Codewars](https://www.codewars.com/users/zwerr/badges/large)](https://www.codewars.com/users/zwerr)
  [![freeCodeCamp](https://i.ibb.co/gM2SXbY/screencapture-freecodecamp-org-certification-zwerr-full-stack-2021-08-02-16-51-12-1.png)](https://www.freecodecamp.org/zwerr)
  ##   ⚙️ Technologies & Tools

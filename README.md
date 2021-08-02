@@ -27,11 +27,12 @@ class WebDeveloper {
 	}
 	
 	sayHi() {
-		alert('Thanks for dropping by, hope you find some of my work interesting.')
+		alert('Thanks for dropping by, hope you find some of my work interesting.');
 	}
 }
-const me = new WebDeveloper()
-me.sayHi()
+
+const me = new WebDeveloper();
+me.sayHi();
 ```										
              																																					  
 ## :robot: Social

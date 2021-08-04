@@ -15,8 +15,7 @@ class WebDeveloper {
 				'Bootstrap',
 				['Sass', 'LESS', 'Stylus', 'PostCSS'],
 				['Flexbox', 'Grid', 'Animations']
-			],
-			Python: 'Selenium',
+			]
 		};
 		this.backend = {
 			'Node.js': ['Express', 'Socket.io', 'Passport', 'Mongoose'],

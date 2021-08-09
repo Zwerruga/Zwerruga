@@ -1,33 +1,36 @@
 # ʕ•́ᴥ•̀ʔっ🅆🄴🄻🄲🄾🄼🄴 🅃🄾 🄼🅈 🄶🄸🅃🄷🅄🄱
 ``` javascript
+
 class WebDeveloper {
-	constructor() {
-		this.frontend = {
-			Javascript: [
-				'Vanilla js Framework',
-				['React', 'React Router Dom'],
-				['Redux', 'MobX'],
-				['D3.js', 'Chart.js'],
-				'Jest', 'Webpack', 'GraphQL',
-				['MATERIAL-UI', 'Ant Design'],
-			],
-			CSS3: [
-				'Bootstrap',
-				['Sass', 'LESS', 'Stylus', 'PostCSS'],
-				['Flexbox', 'Grid', 'Animations']
-			]
-		};
-		this.backend = {
-			'Node.js': ['Express', 'Socket.io', 'Passport', 'Mongoose'],
-			'Python': ['Django', 'FastAPI'],
-			'Database': ['SQL', 'MongoDB'],
-		};
-		this.dreams = ['Next.js', 'TypeScript', 'Three.js'];
-	}
-	
-	sayHi() {
-		alert('Thanks for dropping by, hope you find some of my work interesting.');
-	}
+  constructor() {
+    this.frontend = {
+      Javascript: [
+        "Vanilla js Framework",
+        ["React", "React Router Dom"],
+        ["Redux", "MobX"],
+        ["D3.js", "Chart.js"],
+        "Jest",
+        "Webpack",
+        "GraphQL",
+        ["MATERIAL-UI", "Ant Design"],
+      ],
+      CSS3: [
+        "Bootstrap",
+        ["Sass", "LESS", "Stylus", "PostCSS"],
+        ["Flexbox", "Grid", "Animations"],
+      ],
+    };
+    this.backend = {
+      "Node.js": ["Express", "Socket.io", "Passport", "Mongoose"],
+      Python: ["Django", "FastAPI"],
+      Database: ["SQL", "MongoDB"],
+    };
+    this.dreams = ["Next.js", "TypeScript", "Three.js"];
+  }
+
+  sayHi() {
+    alert("Thanks for dropping by, hope you find some of my work interesting.");
+  }
 }
 
 const me = new WebDeveloper();

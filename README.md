@@ -1,6 +1,5 @@
 # ʕ•́ᴥ•̀ʔっ🅆🄴🄻🄲🄾🄼🄴 🅃🄾 🄼🅈 🄶🄸🅃🄷🅄🄱
 ``` javascript
-
 class WebDeveloper {
   constructor() {
     this.frontend = {

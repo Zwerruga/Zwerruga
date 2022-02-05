@@ -13,6 +13,8 @@ class WebDeveloper {
         "Webpack",
         "GraphQL",
         ["MATERIAL-UI", "Ant Design"],
+        "Solid.js",
+        "Next.js",
       ],
       CSS3: [
         "Bootstrap",
@@ -25,7 +27,7 @@ class WebDeveloper {
       Python: ["Django", "FastAPI"],
       Database: ["SQL", "MongoDB"],
     };
-    this.dreams = ["Next.js", "TypeScript", "Three.js"];
+    this.dreams = ["TypeScript", "Three.js"];
   }
 
   sayHi() {

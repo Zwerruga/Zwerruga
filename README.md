@@ -7,7 +7,7 @@ class WebDeveloper {
       Javascript: [
         "Vanilla js Framework",
         "TypeScript",
-        ["React", "React Router Dom"],
+        "React",
         ["Redux", "MobX"],
         ["D3.js", "Chart.js"],
         "Jest",
@@ -17,7 +17,7 @@ class WebDeveloper {
         "Solid.js",
         "Next.js",
       ],
-      CSS3: [
+      CSS: [
         "Bootstrap",
         ["Sass", "LESS", "Stylus", "PostCSS"],
         ["Flexbox", "Grid", "Animations"],

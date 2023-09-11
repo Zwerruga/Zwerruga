@@ -44,7 +44,9 @@ class WebDeveloper {
     this.dreams = [
       "WebGL",
       ["Three.js", "Babylon.js"],
-      "WebAssembly"
+      "WebAssembly",
+      "single-spa",
+      "Bun"
     ];
   }
 
